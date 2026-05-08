@@ -1,0 +1,72 @@
+.textOrange {
+    color: #f97f00 !important;
+}
+
+.colorBorderBottom {
+    border-bottom: 2px solid #f97f00 !important;
+}
+
+.bgOrange {
+    background: #f97f00 !important;
+}
+
+.borderColor {
+    background: #f97f00 !important;
+    border-top: 2px solid #f97f00 !important;
+}
+
+.navbar-nav .nav-link.active {
+    background-color: #f97f00;
+    color: #fff;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.banner h1,
+.banner p {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.banner .bg-white {
+    border-radius: 50px;
+    /* bo cong lớn để giống viên thuốc */
+    overflow: hidden;
+    padding: 40px;
+}
+
+
+.c-right img {
+    border: 1px dotted #707070;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 45px;
+}
+
+.border-Style {
+    border: 1px dotted #a1ccf7;
+    background-color: #fff;
+    padding: 5px;
+}
+
+.text {
+    margin-left: 45px;
+}
+
+.navbar {
+    height: 100%;
+    padding: 0 !important;
+}
+
+.nav-link {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.bgFooter {
+    background: #22a229;
+}
